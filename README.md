@@ -5,6 +5,8 @@
 ##### Author: *Maxim Zhukov ([`mzhukov31415dev@gmail.com`](mailto:mzhukov31415dev@gmail.com) / [`GitHub`](https://github.com/mzhukov1973))*
 ##### Version: *`0.1.0`*
 ##### License: *Apache 2.0*
-##### Roadmap:
- - A placeholder item.
- - A second placeholder item.
+##### Subrepos:
+ - [clavis-vitrea-comms](https://github.com/mzhukov1973/clavis-vitrea-comms)
+ - [aspects/clavis-vitrea-comms___antd](https://github.com/mzhukov1973/clavis-vitrea-comms___antd)
+ - [aspects/clavis-vitrea-comms___store-data](https://github.com/mzhukov1973/clavis-vitrea-comms___store-data)
+ - [aspects/clavis-vitrea-comms___web-worker](https://github.com/mzhukov1973/clavis-vitrea-comms___web-worker)

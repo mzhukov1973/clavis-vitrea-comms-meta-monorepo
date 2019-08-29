@@ -3,7 +3,6 @@
   "private": true,
   "version": "1.0.0",
   "description": "Monorepo (organised with the help of [meta](https://www.npmjs.com/package/meta)) for Clavis Vitrea Comms App project.",
-  "main": ".eslintrc.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

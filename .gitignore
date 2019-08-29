@@ -27,3 +27,6 @@ typings/
 .next
 MiscResources-noGitNowNPM
 /clavis-vitrea-comms/
+/aspects/clavis-vitrea-comms___antd/
+/aspects/clavis-vitrea-comms___store-data/
+/aspects/clavis-vitrea-comms___web-worker/
