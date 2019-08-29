@@ -16,7 +16,7 @@ build_internal
 build
 dist
 app
-node_modules/
+/node_modules/
 jspm_packages/
 typings/
 .npm
@@ -30,3 +30,4 @@ MiscResources-noGitNowNPM
 /aspects/clavis-vitrea-comms___antd/
 /aspects/clavis-vitrea-comms___store-data/
 /aspects/clavis-vitrea-comms___web-worker/
+meta-add-commit-push.sh
