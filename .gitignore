@@ -26,3 +26,4 @@ typings/
 .env*
 .next
 MiscResources-noGitNowNPM
+/clavis-vitrea-comms/

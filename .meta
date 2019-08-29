@@ -1,3 +1,5 @@
 {
-  "projects": {}
+  "projects": {
+    "clavis-vitrea-comms": "https://github.com/mzhukov1973/clavis-vitrea-comms.git"
+  }
 }
